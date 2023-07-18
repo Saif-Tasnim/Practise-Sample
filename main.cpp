@@ -9,7 +9,27 @@ int main()
     return 0;
 }
 
+// git add .
+// git commit -m "saif branch work start"
+// git push
 
+                //   branch
+
+// git branch
+// git branch saif
+// git branch ifty
+// git branch arafat
+// git branch muhit
+
+                    // switch
+// git checkout saif
+
+
+
+
+// git add .
+// git commit -m "two variables added"
+// git push
 
 
 
