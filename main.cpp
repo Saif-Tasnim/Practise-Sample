@@ -9,9 +9,11 @@ int main()
     return 0;
 }
 
+// git checkout main
+
 // git add .
 // git commit -m "saif branch work start"
-// git push
+// git push --set-upstream origin saif 
 
                 //   branch
 
@@ -20,6 +22,7 @@ int main()
 // git branch ifty
 // git branch arafat
 // git branch muhit
+// git branch -d saif
 
                     // switch
 // git checkout saif
