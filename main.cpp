@@ -3,12 +3,15 @@ using namespace std;
 
 int main()
 { 
-    int a = 10;
-    cout << "hello git" << a <<  endl;
+    int a = 10 , b = 12;
+
+    cout << "hello git The value of sum : " << a+b <<  endl;
     return 0;
 }
 
-// git add main.cpp
+
+
+
 
 
 
